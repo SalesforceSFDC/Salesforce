@@ -10,3 +10,7 @@
 
 * [Manage Duplicate Records](https://help.salesforce.com/articleView?id=managing_duplicates_overview.htm)
 * [Standard Matching Rules](https://help.salesforce.com/articleView?id=matching_rules_standard_rules.htm)
+* [Standard Duplicate Rules](https://help.salesforce.com/articleView?id=duplicate_rules_standard_rules.htm)
+* [Customize Matching Rules](https://help.salesforce.com/articleView?id=matching_rules_create.htm)
+* [Matching Rules](https://help.salesforce.com/articleView?id=matching_rule_map_of_reference.htm)
+* [Duplicate Rules](https://help.salesforce.com/articleView?id=duplicate_rules_map_of_reference.htm)
