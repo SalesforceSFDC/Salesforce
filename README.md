@@ -20,4 +20,4 @@
 * [Custom Account Matching Fuzzy Mailing Street](https://meraqimedical.my.salesforce.com/0JD6A000005sJel)
 * [Account Duplicate Rule - Custom Duplicate Rules when the Mailing Street field includes variants](https://meraqimedical.my.salesforce.com/0Bm6A000001oeyF?setupid=DuplicateRules)
 * [Matching Rule - Custom Duplicate Rules when the Name and Email fields are same](https://meraqimedical.my.salesforce.com/0JD6A000005sJeq)
-* []()
+* [Matching Rules](https://meraqimedical.my.salesforce.com/0JD?retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DDuplicateManagement&setupid=MatchingRules)
