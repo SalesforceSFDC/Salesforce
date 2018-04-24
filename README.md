@@ -21,3 +21,4 @@
 * [Account Duplicate Rule - Custom Duplicate Rules when the Mailing Street field includes variants](https://meraqimedical.my.salesforce.com/0Bm6A000001oeyF?setupid=DuplicateRules)
 * [Matching Rule - Custom Duplicate Rules when the Name and Email fields are same](https://meraqimedical.my.salesforce.com/0JD6A000005sJeq)
 * [Matching Rules](https://meraqimedical.my.salesforce.com/0JD?retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DDuplicateManagement&setupid=MatchingRules)
+* [Managing Duplicate Records in Salesforce](https://resources.docs.salesforce.com/200/10/en-us/sfdc/pdf/salesforce_data_quality_duplicate_prevention.pdf)
