@@ -22,3 +22,4 @@
 * [Matching Rule - Custom Duplicate Rules when the Name and Email fields are same](https://meraqimedical.my.salesforce.com/0JD6A000005sJeq)
 * [Matching Rules](https://meraqimedical.my.salesforce.com/0JD?retURL=%2Fui%2Fsetup%2FSetup%3Fsetupid%3DDuplicateManagement&setupid=MatchingRules)
 * [Managing Duplicate Records in Salesforce](https://resources.docs.salesforce.com/200/10/en-us/sfdc/pdf/salesforce_data_quality_duplicate_prevention.pdf)
+* [Getting Microsoft® Outlook® and Salesforce in Sync](https://resources.docs.salesforce.com/208/20/en-us/sfdc/pdf/sfo_getting_started_guide.pdf)
